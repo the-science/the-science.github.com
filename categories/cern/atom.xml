@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[TheScience.RU]]></title>
-  <link href="http://TheScience.RU/atom.xml" rel="self"/>
+  <title><![CDATA[Category: CERN | TheScience.RU]]></title>
+  <link href="http://TheScience.RU/categories/cern/atom.xml" rel="self"/>
   <link href="http://TheScience.RU/"/>
   <updated>2013-09-18T23:53:36+06:00</updated>
   <id>http://TheScience.RU/</id>
