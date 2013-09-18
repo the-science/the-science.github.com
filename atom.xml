@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://the-science.github.io/atom.xml" rel="self"/>
-  <link href="http://the-science.github.io/"/>
-  <updated>2013-09-18T23:16:23+06:00</updated>
-  <id>http://the-science.github.io/</id>
+  <title><![CDATA[TheScience.RU]]></title>
+  <link href="http://TheScience.RU/atom.xml" rel="self"/>
+  <link href="http://TheScience.RU/"/>
+  <updated>2013-09-18T23:35:46+06:00</updated>
+  <id>http://TheScience.RU/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ruslan Nagimov]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
