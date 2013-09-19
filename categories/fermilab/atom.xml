@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Fermilab | TheScience.RU]]></title>
+  <link href="http://TheScience.RU/categories/fermilab/atom.xml" rel="self"/>
+  <link href="http://TheScience.RU/"/>
+  <updated>2013-09-20T01:21:24+06:00</updated>
+  <id>http://TheScience.RU/</id>
+  <author>
+    <name><![CDATA[Ruslan Nagimov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[3D Printing in High Energy Physics]]></title>
+    <link href="http://TheScience.RU/2013/09/20/3d-printing-in-high-energy-physics/"/>
+    <updated>2013-09-20T09:21:00+06:00</updated>
+    <id>http://TheScience.RU/2013/09/20/3d-printing-in-high-energy-physics</id>
+    <content type="html"><![CDATA[<p><img src="/img/3d-printing-in-high-energy-physics/logo.jpg" alt="3D printer in CERN" /></p>
+
+<p>Дабы не начинать каждый пост сухим повествованием о сугубо научных фактах и домыслах, предлагаю вам плавно погрузиться в атмосферу суровых физиков посредством одной из наиболее популярных high-tech тем последних лет (нет, речь пойдет не о котиках).<br/>
+Сегодня я расскажу вам о 3D печати применительно к решению нескольких задач, так или иначе связанных с физикой высоких энергий.</p>
+
+<!-- more -->
+
+
+<p>Около месяца назад ежедневный журнал &ldquo;Fermilab Today&rdquo; Национальной Ускорительной Лаборатории имени Энрико Ферми <a href="http://www.fnal.gov/pub/today/archive/archive_2013/today13-08-21.html">опубликовал</a> заметку о тяжелых буднях инженеров и ученых данной лаборатории, и 3D печати, как средстве от всех проблем.
+Итак, в далеком 2008-м году младший научный сотрудник Лаборатории Ферми, Mauricio Lopes, начал создание модели некоего спирального соленоида из картона для обоснования целесообразности концепции разрабатываемой модели. Данный процесс (вполне ожидаемо) шел очень медленно, терпение Лопеса лопнуло, и он озаботился приобретением установки для 3D печати. В октябре 2009-го лаборатория получила долгожданный 3D принтер для печати пластиковых моделей. И, что называется, понеслось &ndash; стали печататься как пластиковые прототипы (вот, например, <a href="/img/3d-printing-in-high-energy-physics/SC-cables.jpg">фотография</a> прототипов сверхпроводящих кабелей из станнида &ndash; сплава Nb3Sn), так и металлические детали (<a href="/img/3d-printing-in-high-energy-physics/winding-coil.jpg">фото</a> сердечников для обмотки сверхпроводящих магнитов: слева &ndash; полученный при помощи 3D печати, справа &ndash; изготовленный традиционным способом).</p>
+
+<p>Неделю назад в ЦЕРНе прошел интересный <a href="http://indico.cern.ch/conferenceDisplay.py?confId=271447">семинар</a>, на котором был зачитан доклад на тему &ldquo;Новая установка для 3D печати в лаборатории полимерных материалов. Возможности и пределы ее применения&rdquo;. Ознакомиться со слайдами можно <a href="http://indico.cern.ch/getFile.py/access?resId=1&amp;materialId=slides&amp;confId=271447">здесь</a>.</p>
+
+<p>В настоящее время в ЦЕРНе применяются следующие технологии трехмерной печати:</p>
+
+<ul>
+<li>Моделирование методом наплавления, или <a href="http://en.wikipedia.org/wiki/Fused_deposition_modeling">Fused Deposition Modeling</a>. Трехмерная модель образуется методом послойного формирования из плавкой нити, которая затем застывает. Наиболее распространенная технология трехмерной печати, применяемая практически во всех 3D принтерах нижнего ценового диапазона.</li>
+<li>Лазерная стереолитография, или <a href="http://en.wikipedia.org/wiki/Stereolithography">Laser Stereolithography</a>. Метод получения трехмерных моделей из специальной жидкости &ndash; фотополимеризующейся композиции. Как несложно догадаться из названия, затвердевание фотополимера происходит под воздействием лазерного излучения.</li>
+<li>Селективное лазерное спекание, или <a href="http://en.wikipedia.org/wiki/Selective_laser_sintering">Selective Laser Sintering</a>. Процесс получения изделия аналогичен предыдущему, с той лишь разницей, что рабочим материалом в данном случае является порошок (металл или пластик). Формирование модели также происходит послойно, серией последовательных облучений лазером.</li>
+</ul>
+
+
+<p>В этом же докладе представлена <a href="/img/3d-printing-in-high-energy-physics/SLA-model.png">фотография</a> модели и <a href="/img/3d-printing-in-high-energy-physics/SLA-part.jpg">фотография</a> конечной детали, полученной методом лазерной стереолитографии.
+Понятно, что изделия, изготовленные данными методами всегда имеют определенные недостатки по отношению к деталям, полученным традиционной обработкой (меньшая прочность и жесткость материала изделий, меньшая точность изготовления, низкая стойкость к агрессивным условиям среды, и т. д.). Несмотря на эти недостатки, &ldquo;распечатанные&rdquo; на местных 3D принтерах детали успешно применяются в таких неожиданных областях, как низкотемпературная и вакуумная техника, высоковольтное электрическое оборудование и даже линзы <a href="http://ru.wikipedia.org/wiki/%D0%A1%D1%86%D0%B8%D0%BD%D1%82%D0%B8%D0%BB%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B">сцинтилляторов</a>.</p>
+
+<p>Также в самом ЦЕРНе проведены исследования следующих свойств &ldquo;напечатанных&rdquo; изделий из различных материалов:</p>
+
+<ul>
+<li><a href="/img/3d-printing-in-high-energy-physics/mechanical-properties.png">механической прочности при нормальных температурах</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/mechanical-properties_77.png">механической прочности при пониженных (~77 K) температурах</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/thermal-contraction.png">термической усадки</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/electrical-properties.png">стойкости к высоковольтным электрическим воздействиям</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/vibration.png">стойкости к механическим вибрационным воздействиям</a></li>
+<li>и даже <a href="/img/3d-printing-in-high-energy-physics/radiation-resistance.png">изменения механических свойств под воздействием радиационного облучения</a>.</li>
+</ul>
+
+
+<p>Напоследок давайте взглянем на то, что печатают 3D принтеры аж на самом Большом Адронном Коллайдере:</p>
+
+<ul>
+<li><a href="/img/3d-printing-in-high-energy-physics/RF-antenna.jpg">пластиковая оболочка ВЧ-антенны</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/high-voltage-connectors.png">высоковольтные коннекторы</a> для усилителя <a href="/img/3d-printing-in-high-energy-physics/ADT.jpg">системы поперечной стабилизации пучка</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/winding-coil-LHC.jpg">детали обмоток свехпроводящих соленоидов</a>.</li>
+</ul>
+
+
+<p>В остальных научных учреждения планеты дела обстоят похожим образом: 3D печать активно используется для прототипирования, растет доля металлической &ldquo;печати&rdquo;, приветствуется расширение области применения 3D печати, для чего усилиями самих лабораторий и проводятся исследования применимости напечатанных изделий в тех или иных областях. Современная 3D печать &ndash; это не просто гаджеты для гиков, способные напечатать эксклюзивный корпус для iPhone или красивый кейс для Raspberry Pi, но вполне серьезный и полезный инструмент протитипирования и единичного производства самых разнообразных и, что немаловажно, ответственных изделий. Спросите ученых-физиков, они подтвердят.</p>
+
+<p>Sources:<br/>
+<a href="http://www.fnal.gov/pub/today/archive/archive_2013/today13-08-21.html">http://www.fnal.gov/pub/today/archive/archive_2013/today13-08-21.html</a><br/>
+<a href="http://indico.cern.ch/getFile.py/access?resId=1&amp;materialId=slides&amp;confId=271447">http://indico.cern.ch/getFile.py/access?resId=1&amp;materialId=slides&amp;confId=271447</a></p>
+]]></content>
+  </entry>
+  
+</feed>

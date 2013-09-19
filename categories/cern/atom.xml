@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[TheScience.RU]]></title>
-  <link href="http://TheScience.RU/atom.xml" rel="self"/>
+  <title><![CDATA[Category: CERN | TheScience.RU]]></title>
+  <link href="http://TheScience.RU/categories/cern/atom.xml" rel="self"/>
   <link href="http://TheScience.RU/"/>
   <updated>2013-09-20T01:21:24+06:00</updated>
   <id>http://TheScience.RU/</id>
@@ -18,7 +18,7 @@
     <link href="http://TheScience.RU/2013/09/20/3d-printing-in-high-energy-physics/"/>
     <updated>2013-09-20T09:21:00+06:00</updated>
     <id>http://TheScience.RU/2013/09/20/3d-printing-in-high-energy-physics</id>
-    <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/3d-printing-in-high-energy-physics/logo.jpg" alt="3D printer in CERN" /></p>
+    <content type="html"><![CDATA[<p><img src="/img/3d-printing-in-high-energy-physics/logo.jpg" alt="3D printer in CERN" /></p>
 
 <p>Дабы не начинать каждый пост сухим повествованием о сугубо научных фактах и домыслах, предлагаю вам плавно погрузиться в атмосферу суровых физиков посредством одной из наиболее популярных high-tech тем последних лет (нет, речь пойдет не о котиках).<br/>
 Сегодня я расскажу вам о 3D печати применительно к решению нескольких задач, так или иначе связанных с физикой высоких энергий.</p>
@@ -27,7 +27,7 @@
 
 
 <p>Около месяца назад ежедневный журнал &ldquo;Fermilab Today&rdquo; Национальной Ускорительной Лаборатории имени Энрико Ферми <a href="http://www.fnal.gov/pub/today/archive/archive_2013/today13-08-21.html">опубликовал</a> заметку о тяжелых буднях инженеров и ученых данной лаборатории, и 3D печати, как средстве от всех проблем.
-Итак, в далеком 2008-м году младший научный сотрудник Лаборатории Ферми, Mauricio Lopes, начал создание модели некоего спирального соленоида из картона для обоснования целесообразности концепции разрабатываемой модели. Данный процесс (вполне ожидаемо) шел очень медленно, терпение Лопеса лопнуло, и он озаботился приобретением установки для 3D печати. В октябре 2009-го лаборатория получила долгожданный 3D принтер для печати пластиковых моделей. И, что называется, понеслось &ndash; стали печататься как пластиковые прототипы (вот, например, <a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/SC-cables.jpg">фотография</a> прототипов сверхпроводящих кабелей из станнида &ndash; сплава Nb3Sn), так и металлические детали (<a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/winding-coil.jpg">фото</a> сердечников для обмотки сверхпроводящих магнитов: слева &ndash; полученный при помощи 3D печати, справа &ndash; изготовленный традиционным способом).</p>
+Итак, в далеком 2008-м году младший научный сотрудник Лаборатории Ферми, Mauricio Lopes, начал создание модели некоего спирального соленоида из картона для обоснования целесообразности концепции разрабатываемой модели. Данный процесс (вполне ожидаемо) шел очень медленно, терпение Лопеса лопнуло, и он озаботился приобретением установки для 3D печати. В октябре 2009-го лаборатория получила долгожданный 3D принтер для печати пластиковых моделей. И, что называется, понеслось &ndash; стали печататься как пластиковые прототипы (вот, например, <a href="/img/3d-printing-in-high-energy-physics/SC-cables.jpg">фотография</a> прототипов сверхпроводящих кабелей из станнида &ndash; сплава Nb3Sn), так и металлические детали (<a href="/img/3d-printing-in-high-energy-physics/winding-coil.jpg">фото</a> сердечников для обмотки сверхпроводящих магнитов: слева &ndash; полученный при помощи 3D печати, справа &ndash; изготовленный традиционным способом).</p>
 
 <p>Неделю назад в ЦЕРНе прошел интересный <a href="http://indico.cern.ch/conferenceDisplay.py?confId=271447">семинар</a>, на котором был зачитан доклад на тему &ldquo;Новая установка для 3D печати в лаборатории полимерных материалов. Возможности и пределы ее применения&rdquo;. Ознакомиться со слайдами можно <a href="http://indico.cern.ch/getFile.py/access?resId=1&amp;materialId=slides&amp;confId=271447">здесь</a>.</p>
 
@@ -40,27 +40,27 @@
 </ul>
 
 
-<p>В этом же докладе представлена <a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/SLA-model.png">фотография</a> модели и <a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/SLA-part.jpg">фотография</a> конечной детали, полученной методом лазерной стереолитографии.
+<p>В этом же докладе представлена <a href="/img/3d-printing-in-high-energy-physics/SLA-model.png">фотография</a> модели и <a href="/img/3d-printing-in-high-energy-physics/SLA-part.jpg">фотография</a> конечной детали, полученной методом лазерной стереолитографии.
 Понятно, что изделия, изготовленные данными методами всегда имеют определенные недостатки по отношению к деталям, полученным традиционной обработкой (меньшая прочность и жесткость материала изделий, меньшая точность изготовления, низкая стойкость к агрессивным условиям среды, и т. д.). Несмотря на эти недостатки, &ldquo;распечатанные&rdquo; на местных 3D принтерах детали успешно применяются в таких неожиданных областях, как низкотемпературная и вакуумная техника, высоковольтное электрическое оборудование и даже линзы <a href="http://ru.wikipedia.org/wiki/%D0%A1%D1%86%D0%B8%D0%BD%D1%82%D0%B8%D0%BB%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D1%8B">сцинтилляторов</a>.</p>
 
 <p>Также в самом ЦЕРНе проведены исследования следующих свойств &ldquo;напечатанных&rdquo; изделий из различных материалов:</p>
 
 <ul>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/mechanical-properties.png">механической прочности при нормальных температурах</a></li>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/mechanical-properties_77.png">механической прочности при пониженных (~77 K) температурах</a></li>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/thermal-contraction.png">термической усадки</a></li>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/electrical-properties.png">стойкости к высоковольтным электрическим воздействиям</a></li>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/vibration.png">стойкости к механическим вибрационным воздействиям</a></li>
-<li>и даже <a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/radiation-resistance.png">изменения механических свойств под воздействием радиационного облучения</a>.</li>
+<li><a href="/img/3d-printing-in-high-energy-physics/mechanical-properties.png">механической прочности при нормальных температурах</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/mechanical-properties_77.png">механической прочности при пониженных (~77 K) температурах</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/thermal-contraction.png">термической усадки</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/electrical-properties.png">стойкости к высоковольтным электрическим воздействиям</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/vibration.png">стойкости к механическим вибрационным воздействиям</a></li>
+<li>и даже <a href="/img/3d-printing-in-high-energy-physics/radiation-resistance.png">изменения механических свойств под воздействием радиационного облучения</a>.</li>
 </ul>
 
 
 <p>Напоследок давайте взглянем на то, что печатают 3D принтеры аж на самом Большом Адронном Коллайдере:</p>
 
 <ul>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/RF-antenna.jpg">пластиковая оболочка ВЧ-антенны</a></li>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/high-voltage-connectors.png">высоковольтные коннекторы</a> для усилителя <a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/ADT.jpg">системы поперечной стабилизации пучка</a></li>
-<li><a href="http://TheScience.RU/img/3d-printing-in-high-energy-physics/winding-coil-LHC.jpg">детали обмоток свехпроводящих соленоидов</a>.</li>
+<li><a href="/img/3d-printing-in-high-energy-physics/RF-antenna.jpg">пластиковая оболочка ВЧ-антенны</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/high-voltage-connectors.png">высоковольтные коннекторы</a> для усилителя <a href="/img/3d-printing-in-high-energy-physics/ADT.jpg">системы поперечной стабилизации пучка</a></li>
+<li><a href="/img/3d-printing-in-high-energy-physics/winding-coil-LHC.jpg">детали обмоток свехпроводящих соленоидов</a>.</li>
 </ul>
 
 
@@ -77,7 +77,7 @@
     <link href="http://TheScience.RU/2013/09/17/cern-opendays-2013/"/>
     <updated>2013-09-17T10:27:00+06:00</updated>
     <id>http://TheScience.RU/2013/09/17/cern-opendays-2013</id>
-    <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/cern-opendays-2013/logo.gif" alt="CERN Opendays 2013" /></p>
+    <content type="html"><![CDATA[<p><img src="/img/cern-opendays-2013/logo.gif" alt="CERN Opendays 2013" /></p>
 
 <p>Так уж сложилось, что с научной новостной периодикой у нас &ldquo;не очень&rdquo;. Заинтересованные в тех или иных новостных тематиках предпочитают (а иногда и просто вынуждены) знакомиться с оперативным новостным шумом из оригинальных источников. Не видя в этом ничего негативного, одновременно хочется отметить недоступность данных новостей для дилетантских обсуждений &ldquo;на кухне&rdquo;. Возможно, ряд новостей и сообщений мирового научного сообщества будет интересным для обсуждения и простому люду, не связанного с &ldquo;big science&rdquo; напрямую.
 Раз (возможно, и два) в неделю я планирую переводить новости крупнейших научных лабораторий мира, наиболее заинтересовавшие меня в течение недели. Без моих дилетанских комментариев, увы, также не обойтись.
@@ -90,7 +90,7 @@
 
 <p>Итак, ЦЕРН &ndash; крупнейшая лаборатория физики элементарных частиц на планете. В настоящий момент более 10000 (!!!) физиков со всего мира работают в ЦЕРНе над экспериментами, так или иначе связанными с изучением основы основ нашей Вселенной, вопросами ее возникновения, существования и (who knows?) смерти.
 С целью проведения данных экспериментов в ЦЕРНе построен огромный комплекс ускорителей частиц во главе с Большим Адронным Коллайдером, крупнейшим физическим инструментом на планете, созданным с применением самых современных технологий, доступных человечеству (строительство БАК также послужило поводом для создания ряда уникальных устройств, потребность в которых возникла лишь при создании этого ускорителя).
-28 и 29 сентября сего года ЦЕРН открывает свои двери для всех желающих посетить это уникальное место. Здесь вы сможете встретиться с людьми, двигающими современную фундаментальную науку, вживую пообщаться с первооткрывателями Той-Самой Частицы Бога, сфотографироваться с крупнейшими ускорительными установками мира, посетить крупнейший вычислительный центр, обрабатывающий рекордное количество информации. Отдельно отмечу путешествия в <a href="http://TheScience.RU/img/cern-opendays-2013/lhc-tunnel.jpg">подземные помещения и тоннели с уникальным оборудованием</a> и посещение <a href="http://TheScience.RU/img/cern-opendays-2013/lhc-control-room.jpg">Центра Управления Большим Адронным Коллайдером</a>.
+28 и 29 сентября сего года ЦЕРН открывает свои двери для всех желающих посетить это уникальное место. Здесь вы сможете встретиться с людьми, двигающими современную фундаментальную науку, вживую пообщаться с первооткрывателями Той-Самой Частицы Бога, сфотографироваться с крупнейшими ускорительными установками мира, посетить крупнейший вычислительный центр, обрабатывающий рекордное количество информации. Отдельно отмечу путешествия в <a href="/img/cern-opendays-2013/lhc-tunnel.jpg">подземные помещения и тоннели с уникальным оборудованием</a> и посещение <a href="/img/cern-opendays-2013/lhc-control-room.jpg">Центра Управления Большим Адронным Коллайдером</a>.
 Если вы планируете оказаться в районе Женевы в конце сентября этого года, не упустите возможность поучаствовать в этом интереснейшем событии <del>и узнать куда эти ученые девают миллиарды долларов</del>!</p>
 
 <p>С полной программой можно ознакомиться здесь: <a href="http://opendays2013.web.cern.ch/sites/opendays2013.web.cern.ch/files/programme-web.pdf">http://opendays2013.web.cern.ch/sites/opendays2013.web.cern.ch/files/programme-web.pdf</a></p>
