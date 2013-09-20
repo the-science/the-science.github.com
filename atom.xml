@@ -4,7 +4,7 @@
   <title><![CDATA[TheScience.RU]]></title>
   <link href="http://TheScience.RU/atom.xml" rel="self"/>
   <link href="http://TheScience.RU/"/>
-  <updated>2013-09-20T02:06:52+06:00</updated>
+  <updated>2013-09-20T20:19:43+06:00</updated>
   <id>http://TheScience.RU/</id>
   <author>
     <name><![CDATA[Ruslan Nagimov]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Antimatter from Bananas]]></title>
+    <link href="http://TheScience.RU/2013/09/20/antimatter-from-bananas/"/>
+    <updated>2013-09-20T19:15:00+06:00</updated>
+    <id>http://TheScience.RU/2013/09/20/antimatter-from-bananas</id>
+    <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/antimatter-from-bananas/banana.jpg" alt="banana" /></p>
+
+<p>Маленький пост в честь пятницы :)</p>
+
+<p>Многим известен факт о радиоактивности бананов. А знаете ли вы, что бананы также являются источниками антиматерии?</p>
+
+<p>Предлагаю обсудить занимательную статью, <a href="http://www.symmetrymagazine.org/breaking/2009/07/23/antimatter-from-bananas">опубликованную</a> в журнале &ldquo;Symmetry Magazine&rdquo; пару лет назад.
+Некий студент Корнелльского Университета заявил о том, что бананы являются источниками позитронов.</p>
+
+<!-- more -->
+
+
+<p>Всем нам известны так называемые <a href="http://nuclphys.sinp.msu.ru/radiation/rad_6.htm">естественные источники радиации</a> (вспомним, например, <a href="http://habrahabr.ru/post/190882/">историю</a> про радиоактивные объективы из стекла, содержащего торий).</p>
+
+<p>Сегодняшний пост посвящен калию, а конкретнее &ndash; его изотопу <a href="http://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B9-40">калию-40</a>. В природном калии содержится 0,0117 % данного изотопа.</p>
+
+<p>Данный изотоп имеет следующие направления распада:</p>
+
+<ol>
+<li>β−распад (вероятность 89,28 %):<br/>
+<img src="http://TheScience.RU/img/antimatter-from-bananas/beta-decay.png" alt="β−распад" /></li>
+<li>Захват орбитального электрона (вероятность 10,72 %):<br/>
+<img src="http://TheScience.RU/img/antimatter-from-bananas/orbital-e-decay.png" alt="захват орбитального электрона" /></li>
+<li>Позитронный распад (происходит крайне редко, с вероятностью в 0,001 %):<br/>
+<img src="http://TheScience.RU/img/antimatter-from-bananas/positron-decay.png" alt="позитронный распад" /></li>
+</ol>
+
+
+<p>Не секрет, что бананы содержат относительно большое количество калия, а потому являются радиоактивными. В ядерной физике даже есть понятие <a href="http://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82">бананового эквивалента</a>, характеризующего активность радиоактивного источника путем его сравнения с активностью калия-40, содержащегося в обычном банане.</p>
+
+<p>Исходя из данных, что среднестатистический банан содержит около 0.42 грамма калия, предлагаю вам обсудить и проверить (подтвердить, опровергнуть, запаниковать и одеть шапочку из фольги) следующее предположение:</p>
+
+<p><strong>Среднестатистический банан производит один позитрон каждые 75 минут.</strong></p>
+
+<p>Удачи! :)</p>
+
+<p>Sources:<br/>
+<a href="http://www.symmetrymagazine.org/breaking/2009/07/23/antimatter-from-bananas">http://www.symmetrymagazine.org/breaking/2009/07/23/antimatter-from-bananas</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[3D Printing in High Energy Physics]]></title>
