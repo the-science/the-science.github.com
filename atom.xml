@@ -4,7 +4,7 @@
   <title><![CDATA[TheScience.RU]]></title>
   <link href="http://TheScience.RU/atom.xml" rel="self"/>
   <link href="http://TheScience.RU/"/>
-  <updated>2013-10-04T05:11:43+06:00</updated>
+  <updated>2013-12-28T00:16:55-08:00</updated>
   <id>http://TheScience.RU/</id>
   <author>
     <name><![CDATA[Ruslan Nagimov]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[A Higgs Nobel? And to Whom?]]></title>
     <link href="http://TheScience.RU/2013/10/04/a-higgs-nobel-and-to-whom/"/>
-    <updated>2013-10-04T06:31:00+06:00</updated>
+    <updated>2013-10-04T06:31:00-07:00</updated>
     <id>http://TheScience.RU/2013/10/04/a-higgs-nobel-and-to-whom</id>
     <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/a-higgs-nobel-and-to-whom/higgs.jpg" alt="Peter Higgs" /></p>
 
@@ -48,7 +48,7 @@
   <entry>
     <title type="html"><![CDATA[Why the Scientists Need the Second Large Collider?]]></title>
     <link href="http://TheScience.RU/2013/09/23/why-the-scientists-need-the-second-large-collider/"/>
-    <updated>2013-09-23T06:15:00+06:00</updated>
+    <updated>2013-09-23T06:15:00-07:00</updated>
     <id>http://TheScience.RU/2013/09/23/why-the-scientists-need-the-second-large-collider</id>
     <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/why-the-scientists-need-the-second-large-collider/ilc.jpg" alt="International Linear Collider" /></p>
 
@@ -100,9 +100,9 @@
   
   <entry>
     <title type="html"><![CDATA[Antimatter from Bananas]]></title>
-    <link href="http://TheScience.RU/2013/09/20/antimatter-from-bananas+-+Copy/"/>
-    <updated>2013-09-20T19:15:00+06:00</updated>
-    <id>http://TheScience.RU/2013/09/20/antimatter-from-bananas - Copy</id>
+    <link href="http://TheScience.RU/2013/09/20/antimatter-from-bananas/"/>
+    <updated>2013-09-20T19:15:00-07:00</updated>
+    <id>http://TheScience.RU/2013/09/20/antimatter-from-bananas</id>
     <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/antimatter-from-bananas/banana.jpg" alt="banana" /></p>
 
 <p>Маленький пост в честь пятницы :)</p>
@@ -147,7 +147,7 @@
   <entry>
     <title type="html"><![CDATA[3D Printing in High Energy Physics]]></title>
     <link href="http://TheScience.RU/2013/09/20/3d-printing-in-high-energy-physics/"/>
-    <updated>2013-09-20T06:15:00+06:00</updated>
+    <updated>2013-09-20T06:15:00-07:00</updated>
     <id>http://TheScience.RU/2013/09/20/3d-printing-in-high-energy-physics</id>
     <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/3d-printing-in-high-energy-physics/logo.jpg" alt="3D printer in CERN" /></p>
 
@@ -206,7 +206,7 @@
   <entry>
     <title type="html"><![CDATA[CERN Opendays 2013]]></title>
     <link href="http://TheScience.RU/2013/09/17/cern-opendays-2013/"/>
-    <updated>2013-09-17T10:27:00+06:00</updated>
+    <updated>2013-09-17T10:27:00-07:00</updated>
     <id>http://TheScience.RU/2013/09/17/cern-opendays-2013</id>
     <content type="html"><![CDATA[<p><img src="http://TheScience.RU/img/cern-opendays-2013/logo.gif" alt="CERN Opendays 2013" /></p>
 
